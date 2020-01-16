@@ -120,4 +120,15 @@
     </state>
     <state x="222" y="104" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1579147374216" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django_project/settings.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
